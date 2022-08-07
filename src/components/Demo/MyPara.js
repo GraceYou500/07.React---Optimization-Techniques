@@ -1,7 +1,7 @@
 import React from 'react';
 
 const MyPara = props => {
-  console.log('MyPAra RUNING');
+  console.log('MyPara RUNING');
   return <p>{props.children}</p>;
 };
 
